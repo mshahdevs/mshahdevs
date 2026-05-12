@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Advanced MERN Stack & DevOps**
-- 💻 Working with **React, Angular, Node.js & MongoDB**
+- 🌱 I’m currently learning **Advanced MERN Stack**
+- 💻 Working with **React, NextJs, PostgreSQL, Node.js & MongoDB**
 - 🔥 Passionate about **Web Development**
 - 📚 Currently improving my **English Speaking Skills**
 - ⚡ Fun fact: I love coding & learning new technologies
@@ -94,7 +94,7 @@
 # ☕ Support Me
 
 <p>
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/mshahdevs">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
 </a>
 </p>
