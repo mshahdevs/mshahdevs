@@ -44,7 +44,6 @@
 <img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=typescript" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=angular" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=express" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -54,7 +53,6 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=linux" />
 
 </p>
 
@@ -74,14 +72,6 @@
 
 ---
 
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mshahdevs&theme=onedark&no-frame=true&margin-w=10" />
-</p>
----
-
 # 📌 Featured Projects
 
 - 🚀 MERN Stack Applications
@@ -91,14 +81,3 @@
 
 ---
 
-# ☕ Support Me
-
-<p>
-<a href="https://buymeacoffee.com/mshahdevs">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" />
-</a>
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
